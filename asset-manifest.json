@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.0defd9b9.chunk.css",
-    "main.js": "/static/js/main.0aa74c36.chunk.js",
+    "main.js": "/static/js/main.c5b6189d.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.5558a57b.js",
     "static/css/2.98c15a95.chunk.css": "/static/css/2.98c15a95.chunk.css",
-    "static/js/2.bf2321a4.chunk.js": "/static/js/2.bf2321a4.chunk.js",
+    "static/js/2.d8e5ca73.chunk.js": "/static/js/2.d8e5ca73.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.292726f61f03cb7d2a5425ebcc81a1a1.js": "/precache-manifest.292726f61f03cb7d2a5425ebcc81a1a1.js",
+    "precache-manifest.75c4b7a255b8aff82c786ce951cf54a8.js": "/precache-manifest.75c4b7a255b8aff82c786ce951cf54a8.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.bf2321a4.chunk.js.LICENSE.txt": "/static/js/2.bf2321a4.chunk.js.LICENSE.txt",
+    "static/js/2.d8e5ca73.chunk.js.LICENSE.txt": "/static/js/2.d8e5ca73.chunk.js.LICENSE.txt",
     "static/media/award.9a3f762e.svg": "/static/media/award.9a3f762e.svg",
     "static/media/cancel.cb487b2d.svg": "/static/media/cancel.cb487b2d.svg",
     "static/media/carta.2149edd2.svg": "/static/media/carta.2149edd2.svg",
@@ -42,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.5558a57b.js",
     "static/css/2.98c15a95.chunk.css",
-    "static/js/2.bf2321a4.chunk.js",
+    "static/js/2.d8e5ca73.chunk.js",
     "static/css/main.0defd9b9.chunk.css",
-    "static/js/main.0aa74c36.chunk.js"
+    "static/js/main.c5b6189d.chunk.js"
   ]
 }
