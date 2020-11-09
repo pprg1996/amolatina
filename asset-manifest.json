@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.88d60b5a.chunk.css",
-    "main.js": "/static/js/main.dfeddce8.chunk.js",
+    "main.js": "/static/js/main.aff409f9.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.5558a57b.js",
     "static/css/2.98c15a95.chunk.css": "/static/css/2.98c15a95.chunk.css",
     "static/js/2.968c978d.chunk.js": "/static/js/2.968c978d.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e7d9906c462508d18aeb564ec0224825.js": "/precache-manifest.e7d9906c462508d18aeb564ec0224825.js",
+    "precache-manifest.5a878b98d350ba938e17e99a6a4a38fe.js": "/precache-manifest.5a878b98d350ba938e17e99a6a4a38fe.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.968c978d.chunk.js.LICENSE.txt": "/static/js/2.968c978d.chunk.js.LICENSE.txt",
     "static/media/award.90984823.svg": "/static/media/award.90984823.svg",
@@ -22,6 +22,7 @@
     "static/media/filter.66e66d99.svg": "/static/media/filter.66e66d99.svg",
     "static/media/foto.13f250b4.svg": "/static/media/foto.13f250b4.svg",
     "static/media/foto2.5b750161.svg": "/static/media/foto2.5b750161.svg",
+    "static/media/heart-green.b8767da7.svg": "/static/media/heart-green.b8767da7.svg",
     "static/media/heart.1dfc7cf0.svg": "/static/media/heart.1dfc7cf0.svg",
     "static/media/left.3d45a216.svg": "/static/media/left.3d45a216.svg",
     "static/media/liberar.a2ea3a10.svg": "/static/media/liberar.a2ea3a10.svg",
@@ -46,6 +47,6 @@
     "static/css/2.98c15a95.chunk.css",
     "static/js/2.968c978d.chunk.js",
     "static/css/main.88d60b5a.chunk.css",
-    "static/js/main.dfeddce8.chunk.js"
+    "static/js/main.aff409f9.chunk.js"
   ]
 }
