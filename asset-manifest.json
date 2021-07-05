@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.88d60b5a.chunk.css",
-    "main.js": "/static/js/main.53eb4e00.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.17ab79bf.js",
-    "static/css/2.98c15a95.chunk.css": "/static/css/2.98c15a95.chunk.css",
-    "static/js/2.f3558649.chunk.js": "/static/js/2.f3558649.chunk.js",
+    "main.css": "/static/css/main.2bad7233.chunk.css",
+    "main.js": "/static/js/main.d79639c9.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
+    "static/css/2.8a546003.chunk.css": "/static/css/2.8a546003.chunk.css",
+    "static/js/2.254f1699.chunk.js": "/static/js/2.254f1699.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.f3558649.chunk.js.LICENSE.txt": "/static/js/2.f3558649.chunk.js.LICENSE.txt",
+    "static/js/2.254f1699.chunk.js.LICENSE.txt": "/static/js/2.254f1699.chunk.js.LICENSE.txt",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
     "static/media/cancel.b7188ae7.svg": "/static/media/cancel.b7188ae7.svg",
     "static/media/carta.64501cec.svg": "/static/media/carta.64501cec.svg",
@@ -23,6 +23,7 @@
     "static/media/filter.7036737f.svg": "/static/media/filter.7036737f.svg",
     "static/media/foto.ab3e1e04.svg": "/static/media/foto.ab3e1e04.svg",
     "static/media/foto2.00a28fbc.svg": "/static/media/foto2.00a28fbc.svg",
+    "static/media/g.20de5ca6.svg": "/static/media/g.20de5ca6.svg",
     "static/media/gift-bag.eb1fe2f8.svg": "/static/media/gift-bag.eb1fe2f8.svg",
     "static/media/heart-green.228d53d9.svg": "/static/media/heart-green.228d53d9.svg",
     "static/media/heart.5bc6c370.svg": "/static/media/heart.5bc6c370.svg",
@@ -59,13 +60,15 @@
     "static/media/video-stream.173ed88e.svg": "/static/media/video-stream.173ed88e.svg",
     "static/media/video.96557e19.svg": "/static/media/video.96557e19.svg",
     "static/media/video2.e71af6b9.svg": "/static/media/video2.e71af6b9.svg",
-    "static/media/viewed-attachment.48b67eb7.svg": "/static/media/viewed-attachment.48b67eb7.svg"
+    "static/media/viewed-attachment.48b67eb7.svg": "/static/media/viewed-attachment.48b67eb7.svg",
+    "static/media/warning.a80b1ffa.svg": "/static/media/warning.a80b1ffa.svg",
+    "static/media/zzz-sleep.5f892bc9.svg": "/static/media/zzz-sleep.5f892bc9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.17ab79bf.js",
-    "static/css/2.98c15a95.chunk.css",
-    "static/js/2.f3558649.chunk.js",
-    "static/css/main.88d60b5a.chunk.css",
-    "static/js/main.53eb4e00.chunk.js"
+    "static/js/runtime-main.f5b64eba.js",
+    "static/css/2.8a546003.chunk.css",
+    "static/js/2.254f1699.chunk.js",
+    "static/css/main.2bad7233.chunk.css",
+    "static/js/main.d79639c9.chunk.js"
   ]
 }
