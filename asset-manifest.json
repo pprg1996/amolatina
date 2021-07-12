@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.958eee93.chunk.js",
+    "main.js": "/static/js/main.caa28f7b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.8a546003.chunk.css": "/static/css/2.8a546003.chunk.css",
-    "static/js/2.254f1699.chunk.js": "/static/js/2.254f1699.chunk.js",
+    "static/js/2.6e3bc9df.chunk.js": "/static/js/2.6e3bc9df.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.254f1699.chunk.js.LICENSE.txt": "/static/js/2.254f1699.chunk.js.LICENSE.txt",
+    "static/js/2.6e3bc9df.chunk.js.LICENSE.txt": "/static/js/2.6e3bc9df.chunk.js.LICENSE.txt",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
     "static/media/cancel.b7188ae7.svg": "/static/media/cancel.b7188ae7.svg",
+    "static/media/carta-outline.11c87e65.svg": "/static/media/carta-outline.11c87e65.svg",
     "static/media/carta.64501cec.svg": "/static/media/carta.64501cec.svg",
     "static/media/chat.27057547.svg": "/static/media/chat.27057547.svg",
     "static/media/checkmark.491240d3.svg": "/static/media/checkmark.491240d3.svg",
@@ -25,6 +26,7 @@
     "static/media/foto2.00a28fbc.svg": "/static/media/foto2.00a28fbc.svg",
     "static/media/g.20de5ca6.svg": "/static/media/g.20de5ca6.svg",
     "static/media/gift-bag.eb1fe2f8.svg": "/static/media/gift-bag.eb1fe2f8.svg",
+    "static/media/gift-outline.29ea1653.svg": "/static/media/gift-outline.29ea1653.svg",
     "static/media/heart-green.228d53d9.svg": "/static/media/heart-green.228d53d9.svg",
     "static/media/heart.5bc6c370.svg": "/static/media/heart.5bc6c370.svg",
     "static/media/left.2ced7985.svg": "/static/media/left.2ced7985.svg",
@@ -67,8 +69,8 @@
   "entrypoints": [
     "static/js/runtime-main.f5b64eba.js",
     "static/css/2.8a546003.chunk.css",
-    "static/js/2.254f1699.chunk.js",
+    "static/js/2.6e3bc9df.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.958eee93.chunk.js"
+    "static/js/main.caa28f7b.chunk.js"
   ]
 }
