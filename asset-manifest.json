@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.caa28f7b.chunk.js",
+    "main.js": "/static/js/main.6f68ff82.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.8a546003.chunk.css": "/static/css/2.8a546003.chunk.css",
     "static/js/2.6e3bc9df.chunk.js": "/static/js/2.6e3bc9df.chunk.js",
@@ -35,7 +35,7 @@
     "static/media/manual-writeoff.b4c78121.svg": "/static/media/manual-writeoff.b4c78121.svg",
     "static/media/medal.d3573024.svg": "/static/media/medal.d3573024.svg",
     "static/media/mensaje.507e95b6.svg": "/static/media/mensaje.507e95b6.svg",
-    "static/media/menu.78ef1640.svg": "/static/media/menu.78ef1640.svg",
+    "static/media/menu.8db51b8a.svg": "/static/media/menu.8db51b8a.svg",
     "static/media/missed-answer.6dfd3c47.svg": "/static/media/missed-answer.6dfd3c47.svg",
     "static/media/missed-email.359653c9.svg": "/static/media/missed-email.359653c9.svg",
     "static/media/missed-invite.1556a73c.svg": "/static/media/missed-invite.1556a73c.svg",
@@ -71,6 +71,6 @@
     "static/css/2.8a546003.chunk.css",
     "static/js/2.6e3bc9df.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.caa28f7b.chunk.js"
+    "static/js/main.6f68ff82.chunk.js"
   ]
 }
