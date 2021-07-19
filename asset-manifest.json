@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.b136a3e4.chunk.js",
+    "main.js": "/static/js/main.bcffc38c.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.8a546003.chunk.css": "/static/css/2.8a546003.chunk.css",
-    "static/js/2.31f6b4c9.chunk.js": "/static/js/2.31f6b4c9.chunk.js",
+    "static/js/2.46b6a154.chunk.js": "/static/js/2.46b6a154.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.31f6b4c9.chunk.js.LICENSE.txt": "/static/js/2.31f6b4c9.chunk.js.LICENSE.txt",
+    "static/js/2.46b6a154.chunk.js.LICENSE.txt": "/static/js/2.46b6a154.chunk.js.LICENSE.txt",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
     "static/media/cancel.b7188ae7.svg": "/static/media/cancel.b7188ae7.svg",
     "static/media/carta-outline.11c87e65.svg": "/static/media/carta-outline.11c87e65.svg",
@@ -69,8 +69,8 @@
   "entrypoints": [
     "static/js/runtime-main.f5b64eba.js",
     "static/css/2.8a546003.chunk.css",
-    "static/js/2.31f6b4c9.chunk.js",
+    "static/js/2.46b6a154.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.b136a3e4.chunk.js"
+    "static/js/main.bcffc38c.chunk.js"
   ]
 }
