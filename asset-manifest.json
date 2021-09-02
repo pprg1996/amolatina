@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.ec261ed8.chunk.js",
+    "main.js": "/static/js/main.ddfdfee8.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.e4c2af86.chunk.css": "/static/css/2.e4c2af86.chunk.css",
     "static/js/2.39a058ec.chunk.js": "/static/js/2.39a058ec.chunk.js",
@@ -43,9 +43,11 @@
     "static/media/missed-message.0631edb8.svg": "/static/media/missed-message.0631edb8.svg",
     "static/media/missed-present.69564146.svg": "/static/media/missed-present.69564146.svg",
     "static/media/missed-video-invite.e15bd982.svg": "/static/media/missed-video-invite.e15bd982.svg",
+    "static/media/multa-carta.8ab450b4.svg": "/static/media/multa-carta.8ab450b4.svg",
+    "static/media/multa-mingle.b86cc8d6.svg": "/static/media/multa-mingle.b86cc8d6.svg",
     "static/media/multa.235afa0f.svg": "/static/media/multa.235afa0f.svg",
-    "static/media/no-signal.7f583f28.svg": "/static/media/no-signal.7f583f28.svg",
     "static/media/offline.bdbf48b3.svg": "/static/media/offline.bdbf48b3.svg",
+    "static/media/offline2.750e541a.svg": "/static/media/offline2.750e541a.svg",
     "static/media/online-chat.a09c3ad1.svg": "/static/media/online-chat.a09c3ad1.svg",
     "static/media/pause.275bf36d.svg": "/static/media/pause.275bf36d.svg",
     "static/media/ping.9f95e69a.wav": "/static/media/ping.9f95e69a.wav",
@@ -72,6 +74,6 @@
     "static/css/2.e4c2af86.chunk.css",
     "static/js/2.39a058ec.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.ec261ed8.chunk.js"
+    "static/js/main.ddfdfee8.chunk.js"
   ]
 }
