@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.45196e03.chunk.js",
+    "main.js": "/static/js/main.24c92607.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.7c85bbfc.chunk.css": "/static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js": "/static/js/2.b3a05a12.chunk.js",
@@ -10,11 +10,15 @@
     "static/media/alarm.e0ecc01a.wav": "/static/media/alarm.e0ecc01a.wav",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
     "static/media/cancel.0b00584f.svg": "/static/media/cancel.0b00584f.svg",
+    "static/media/carta-enviada.d0cea832.svg": "/static/media/carta-enviada.d0cea832.svg",
     "static/media/carta-outline.11c87e65.svg": "/static/media/carta-outline.11c87e65.svg",
+    "static/media/carta-recibida.5b11bfb3.svg": "/static/media/carta-recibida.5b11bfb3.svg",
     "static/media/carta.64501cec.svg": "/static/media/carta.64501cec.svg",
     "static/media/chat.27057547.svg": "/static/media/chat.27057547.svg",
+    "static/media/chat2.ce2c20c8.svg": "/static/media/chat2.ce2c20c8.svg",
     "static/media/checkmark.491240d3.svg": "/static/media/checkmark.491240d3.svg",
     "static/media/chevron.fb984824.svg": "/static/media/chevron.fb984824.svg",
+    "static/media/conversation.bc1ed929.svg": "/static/media/conversation.bc1ed929.svg",
     "static/media/crown.189d710c.svg": "/static/media/crown.189d710c.svg",
     "static/media/eliminar-multa.386e465e.svg": "/static/media/eliminar-multa.386e465e.svg",
     "static/media/email-arrow-left-red.759755b9.svg": "/static/media/email-arrow-left-red.759755b9.svg",
@@ -33,6 +37,8 @@
     "static/media/left.2ced7985.svg": "/static/media/left.2ced7985.svg",
     "static/media/liberar.dd16a409.svg": "/static/media/liberar.dd16a409.svg",
     "static/media/logout.057582cf.svg": "/static/media/logout.057582cf.svg",
+    "static/media/mail.64c8606d.svg": "/static/media/mail.64c8606d.svg",
+    "static/media/man.4b684e29.svg": "/static/media/man.4b684e29.svg",
     "static/media/manual-writeoff.b4c78121.svg": "/static/media/manual-writeoff.b4c78121.svg",
     "static/media/medal.d3573024.svg": "/static/media/medal.d3573024.svg",
     "static/media/mensaje.507e95b6.svg": "/static/media/mensaje.507e95b6.svg",
@@ -63,6 +69,7 @@
     "static/media/subir-foto.6b24f1a4.svg": "/static/media/subir-foto.6b24f1a4.svg",
     "static/media/tareas.0ded1a5e.svg": "/static/media/tareas.0ded1a5e.svg",
     "static/media/unanswered-email.1e4448fb.svg": "/static/media/unanswered-email.1e4448fb.svg",
+    "static/media/user.10a93f10.svg": "/static/media/user.10a93f10.svg",
     "static/media/video-stream.173ed88e.svg": "/static/media/video-stream.173ed88e.svg",
     "static/media/video.96557e19.svg": "/static/media/video.96557e19.svg",
     "static/media/video2.e71af6b9.svg": "/static/media/video2.e71af6b9.svg",
@@ -74,6 +81,6 @@
     "static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.45196e03.chunk.js"
+    "static/js/main.24c92607.chunk.js"
   ]
 }
