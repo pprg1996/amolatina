@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.c7f14cad.chunk.js",
+    "main.js": "/static/js/main.37892126.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.7c85bbfc.chunk.css": "/static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js": "/static/js/2.b3a05a12.chunk.js",
@@ -38,7 +38,6 @@
     "static/media/liberar.dd16a409.svg": "/static/media/liberar.dd16a409.svg",
     "static/media/logout.057582cf.svg": "/static/media/logout.057582cf.svg",
     "static/media/mail.64c8606d.svg": "/static/media/mail.64c8606d.svg",
-    "static/media/man.4b684e29.svg": "/static/media/man.4b684e29.svg",
     "static/media/manual-writeoff.b4c78121.svg": "/static/media/manual-writeoff.b4c78121.svg",
     "static/media/medal.d3573024.svg": "/static/media/medal.d3573024.svg",
     "static/media/mensaje.507e95b6.svg": "/static/media/mensaje.507e95b6.svg",
@@ -52,6 +51,7 @@
     "static/media/multa-carta.8ab450b4.svg": "/static/media/multa-carta.8ab450b4.svg",
     "static/media/multa-mingle.b86cc8d6.svg": "/static/media/multa-mingle.b86cc8d6.svg",
     "static/media/multa.235afa0f.svg": "/static/media/multa.235afa0f.svg",
+    "static/media/no-wifi.32556b0e.svg": "/static/media/no-wifi.32556b0e.svg",
     "static/media/offline.bdbf48b3.svg": "/static/media/offline.bdbf48b3.svg",
     "static/media/offline2.750e541a.svg": "/static/media/offline2.750e541a.svg",
     "static/media/online-chat.a09c3ad1.svg": "/static/media/online-chat.a09c3ad1.svg",
@@ -74,13 +74,14 @@
     "static/media/video.96557e19.svg": "/static/media/video.96557e19.svg",
     "static/media/video2.e71af6b9.svg": "/static/media/video2.e71af6b9.svg",
     "static/media/viewed-attachment.48b67eb7.svg": "/static/media/viewed-attachment.48b67eb7.svg",
-    "static/media/warning.a80b1ffa.svg": "/static/media/warning.a80b1ffa.svg"
+    "static/media/warning.a80b1ffa.svg": "/static/media/warning.a80b1ffa.svg",
+    "static/media/webcam.06f4c771.svg": "/static/media/webcam.06f4c771.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5b64eba.js",
     "static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.c7f14cad.chunk.js"
+    "static/js/main.37892126.chunk.js"
   ]
 }
