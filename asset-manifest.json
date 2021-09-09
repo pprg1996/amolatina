@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.1913ce30.chunk.js",
+    "main.js": "/static/js/main.2a6e352d.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.7c85bbfc.chunk.css": "/static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js": "/static/js/2.b3a05a12.chunk.js",
@@ -53,7 +53,6 @@
     "static/media/multa.235afa0f.svg": "/static/media/multa.235afa0f.svg",
     "static/media/no-wifi.32556b0e.svg": "/static/media/no-wifi.32556b0e.svg",
     "static/media/offline.bdbf48b3.svg": "/static/media/offline.bdbf48b3.svg",
-    "static/media/offline2.750e541a.svg": "/static/media/offline2.750e541a.svg",
     "static/media/online-chat.a09c3ad1.svg": "/static/media/online-chat.a09c3ad1.svg",
     "static/media/pause.275bf36d.svg": "/static/media/pause.275bf36d.svg",
     "static/media/ping.9f95e69a.wav": "/static/media/ping.9f95e69a.wav",
@@ -82,6 +81,6 @@
     "static/css/2.7c85bbfc.chunk.css",
     "static/js/2.b3a05a12.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.1913ce30.chunk.js"
+    "static/js/main.2a6e352d.chunk.js"
   ]
 }
