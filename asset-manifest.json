@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.8f0420e9.chunk.js",
+    "main.js": "/static/js/main.b1ebf285.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.4fc5d798.chunk.css": "/static/css/2.4fc5d798.chunk.css",
-    "static/js/2.3077e24f.chunk.js": "/static/js/2.3077e24f.chunk.js",
+    "static/js/2.4d7d8cf1.chunk.js": "/static/js/2.4d7d8cf1.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.3077e24f.chunk.js.LICENSE.txt": "/static/js/2.3077e24f.chunk.js.LICENSE.txt",
+    "static/js/2.4d7d8cf1.chunk.js.LICENSE.txt": "/static/js/2.4d7d8cf1.chunk.js.LICENSE.txt",
     "static/media/alarm.e0ecc01a.wav": "/static/media/alarm.e0ecc01a.wav",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
     "static/media/cancel.0b00584f.svg": "/static/media/cancel.0b00584f.svg",
@@ -65,6 +65,7 @@
     "static/media/spinner.ffb485e1.svg": "/static/media/spinner.ffb485e1.svg",
     "static/media/star.4c56ff37.svg": "/static/media/star.4c56ff37.svg",
     "static/media/starStroke.a36c744e.svg": "/static/media/starStroke.a36c744e.svg",
+    "static/media/stats.b561b683.svg": "/static/media/stats.b561b683.svg",
     "static/media/subir-foto.6b24f1a4.svg": "/static/media/subir-foto.6b24f1a4.svg",
     "static/media/tareas.0ded1a5e.svg": "/static/media/tareas.0ded1a5e.svg",
     "static/media/unanswered-email.1e4448fb.svg": "/static/media/unanswered-email.1e4448fb.svg",
@@ -79,8 +80,8 @@
   "entrypoints": [
     "static/js/runtime-main.f5b64eba.js",
     "static/css/2.4fc5d798.chunk.css",
-    "static/js/2.3077e24f.chunk.js",
+    "static/js/2.4d7d8cf1.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.8f0420e9.chunk.js"
+    "static/js/main.b1ebf285.chunk.js"
   ]
 }
