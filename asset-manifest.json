@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2bad7233.chunk.css",
-    "main.js": "/static/js/main.96416a30.chunk.js",
+    "main.js": "/static/js/main.ab6c8f6b.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.911dcfeb.chunk.css": "/static/css/2.911dcfeb.chunk.css",
     "static/js/2.7cdad23b.chunk.js": "/static/js/2.7cdad23b.chunk.js",
@@ -42,6 +42,7 @@
     "static/media/medal.d3573024.svg": "/static/media/medal.d3573024.svg",
     "static/media/mensaje.507e95b6.svg": "/static/media/mensaje.507e95b6.svg",
     "static/media/menu.8db51b8a.svg": "/static/media/menu.8db51b8a.svg",
+    "static/media/metalping.e081de7e.wav": "/static/media/metalping.e081de7e.wav",
     "static/media/missed-answer.6dfd3c47.svg": "/static/media/missed-answer.6dfd3c47.svg",
     "static/media/missed-email.359653c9.svg": "/static/media/missed-email.359653c9.svg",
     "static/media/missed-invite.1556a73c.svg": "/static/media/missed-invite.1556a73c.svg",
@@ -75,6 +76,7 @@
     "static/media/video2.e71af6b9.svg": "/static/media/video2.e71af6b9.svg",
     "static/media/viewed-attachment.48b67eb7.svg": "/static/media/viewed-attachment.48b67eb7.svg",
     "static/media/warning.a80b1ffa.svg": "/static/media/warning.a80b1ffa.svg",
+    "static/media/warning.ca028937.png": "/static/media/warning.ca028937.png",
     "static/media/webcam.06f4c771.svg": "/static/media/webcam.06f4c771.svg"
   },
   "entrypoints": [
@@ -82,6 +84,6 @@
     "static/css/2.911dcfeb.chunk.css",
     "static/js/2.7cdad23b.chunk.js",
     "static/css/main.2bad7233.chunk.css",
-    "static/js/main.96416a30.chunk.js"
+    "static/js/main.ab6c8f6b.chunk.js"
   ]
 }
