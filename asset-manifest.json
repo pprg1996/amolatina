@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.53c97aa3.chunk.css",
-    "main.js": "/static/js/main.9451728b.chunk.js",
+    "main.js": "/static/js/main.a46207f2.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.f5b64eba.js",
     "static/css/2.1793fb04.chunk.css": "/static/css/2.1793fb04.chunk.css",
     "static/js/2.e18aca27.chunk.js": "/static/js/2.e18aca27.chunk.js",
@@ -9,6 +9,7 @@
     "static/js/2.e18aca27.chunk.js.LICENSE.txt": "/static/js/2.e18aca27.chunk.js.LICENSE.txt",
     "static/media/alarm.e0ecc01a.wav": "/static/media/alarm.e0ecc01a.wav",
     "static/media/award.45ae807d.svg": "/static/media/award.45ae807d.svg",
+    "static/media/back.5ae1c72e.svg": "/static/media/back.5ae1c72e.svg",
     "static/media/cancel.0b00584f.svg": "/static/media/cancel.0b00584f.svg",
     "static/media/carta-enviada.d0cea832.svg": "/static/media/carta-enviada.d0cea832.svg",
     "static/media/carta-outline.11c87e65.svg": "/static/media/carta-outline.11c87e65.svg",
@@ -86,6 +87,6 @@
     "static/css/2.1793fb04.chunk.css",
     "static/js/2.e18aca27.chunk.js",
     "static/css/main.53c97aa3.chunk.css",
-    "static/js/main.9451728b.chunk.js"
+    "static/js/main.a46207f2.chunk.js"
   ]
 }
