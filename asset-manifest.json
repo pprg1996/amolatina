@@ -1,13 +1,13 @@
 {
   "files": {
     "static/js/0.f6dacead.chunk.js": "/static/js/0.f6dacead.chunk.js",
-    "static/js/1.428324c1.chunk.js": "/static/js/1.428324c1.chunk.js",
+    "static/js/1.37d65ac8.chunk.js": "/static/js/1.37d65ac8.chunk.js",
     "static/js/2.7ce05f56.chunk.js": "/static/js/2.7ce05f56.chunk.js",
     "main.js": "/static/js/main.a5ee69ee.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.312f9e2d.js",
+    "runtime-main.js": "/static/js/runtime-main.cde711ed.js",
     "static/css/5.d98c9055.chunk.css": "/static/css/5.d98c9055.chunk.css",
     "static/js/5.48360a00.chunk.js": "/static/js/5.48360a00.chunk.js",
-    "static/js/6.34f683c2.chunk.js": "/static/js/6.34f683c2.chunk.js",
+    "static/js/6.ac13fd85.chunk.js": "/static/js/6.ac13fd85.chunk.js",
     "static/js/7.d6bde5d2.chunk.js": "/static/js/7.d6bde5d2.chunk.js",
     "static/js/8.9073f8fe.chunk.js": "/static/js/8.9073f8fe.chunk.js",
     "static/js/9.55266abf.chunk.js": "/static/js/9.55266abf.chunk.js",
@@ -104,7 +104,7 @@
     "static/media/webcam.svg": "/static/media/webcam.06f4c771.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.312f9e2d.js",
+    "static/js/runtime-main.cde711ed.js",
     "static/css/5.d98c9055.chunk.css",
     "static/js/5.48360a00.chunk.js",
     "static/js/main.a5ee69ee.chunk.js"
