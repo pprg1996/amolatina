@@ -4,10 +4,10 @@
     "static/js/1.00d22375.chunk.js": "/static/js/1.00d22375.chunk.js",
     "static/js/2.4089bc25.chunk.js": "/static/js/2.4089bc25.chunk.js",
     "main.js": "/static/js/main.ce92a575.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.5d94522f.js",
+    "runtime-main.js": "/static/js/runtime-main.44846dfa.js",
     "static/css/5.d98c9055.chunk.css": "/static/css/5.d98c9055.chunk.css",
     "static/js/5.edfae4d0.chunk.js": "/static/js/5.edfae4d0.chunk.js",
-    "static/js/6.fa98794f.chunk.js": "/static/js/6.fa98794f.chunk.js",
+    "static/js/6.04066ffc.chunk.js": "/static/js/6.04066ffc.chunk.js",
     "static/js/7.0d713c3f.chunk.js": "/static/js/7.0d713c3f.chunk.js",
     "static/js/8.2b83f36c.chunk.js": "/static/js/8.2b83f36c.chunk.js",
     "static/js/9.e60ba37b.chunk.js": "/static/js/9.e60ba37b.chunk.js",
@@ -108,7 +108,7 @@
     "static/media/webcam.svg": "/static/media/webcam.06f4c771.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d94522f.js",
+    "static/js/runtime-main.44846dfa.js",
     "static/css/5.d98c9055.chunk.css",
     "static/js/5.edfae4d0.chunk.js",
     "static/js/main.ce92a575.chunk.js"
