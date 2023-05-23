@@ -4,10 +4,10 @@
     "static/js/1.fdb0f8e5.chunk.js": "/static/js/1.fdb0f8e5.chunk.js",
     "static/js/2.841da869.chunk.js": "/static/js/2.841da869.chunk.js",
     "main.js": "/static/js/main.29cd2afb.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.38b62490.js",
+    "runtime-main.js": "/static/js/runtime-main.47aaa8cb.js",
     "static/css/5.d98c9055.chunk.css": "/static/css/5.d98c9055.chunk.css",
     "static/js/5.3831a79d.chunk.js": "/static/js/5.3831a79d.chunk.js",
-    "static/js/6.53737ad7.chunk.js": "/static/js/6.53737ad7.chunk.js",
+    "static/js/6.18eca1fb.chunk.js": "/static/js/6.18eca1fb.chunk.js",
     "static/js/7.418db017.chunk.js": "/static/js/7.418db017.chunk.js",
     "static/js/8.81b29aff.chunk.js": "/static/js/8.81b29aff.chunk.js",
     "static/js/9.9b5fc975.chunk.js": "/static/js/9.9b5fc975.chunk.js",
@@ -71,7 +71,7 @@
     "static/media/menu.a92b359e.svg": "/static/media/menu.a92b359e.svg",
     "static/media/metalping.e081de7e.wav": "/static/media/metalping.e081de7e.wav",
     "static/media/microphone-listening.svg": "/static/media/microphone-listening.d47a53b0.svg",
-    "static/media/microphone-send.77722e04.svg": "/static/media/microphone-send.77722e04.svg",
+    "static/media/microphone-receive.d47a53b0.svg": "/static/media/microphone-receive.d47a53b0.svg",
     "static/media/microphone.svg": "/static/media/microphone.e1e04416.svg",
     "static/media/missed-answer.bf950849.svg": "/static/media/missed-answer.bf950849.svg",
     "static/media/missed-email.f40eea7f.svg": "/static/media/missed-email.f40eea7f.svg",
@@ -111,7 +111,7 @@
     "static/media/webcam.svg": "/static/media/webcam.06f4c771.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38b62490.js",
+    "static/js/runtime-main.47aaa8cb.js",
     "static/css/5.d98c9055.chunk.css",
     "static/js/5.3831a79d.chunk.js",
     "static/js/main.29cd2afb.chunk.js"
