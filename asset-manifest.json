@@ -6,11 +6,11 @@
     "static/js/2.039a6f12.chunk.js": "/static/js/2.039a6f12.chunk.js",
     "static/js/3.1db00622.chunk.js": "/static/js/3.1db00622.chunk.js",
     "main.js": "/static/js/main.2e2de67e.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.386b106a.js",
+    "runtime-main.js": "/static/js/runtime-main.487781af.js",
     "static/js/6.00e9b473.chunk.js": "/static/js/6.00e9b473.chunk.js",
     "static/css/7.d98c9055.chunk.css": "/static/css/7.d98c9055.chunk.css",
     "static/js/7.a74fdd90.chunk.js": "/static/js/7.a74fdd90.chunk.js",
-    "static/js/8.7cc7f20e.chunk.js": "/static/js/8.7cc7f20e.chunk.js",
+    "static/js/8.a805c545.chunk.js": "/static/js/8.a805c545.chunk.js",
     "static/js/9.eb0434b1.chunk.js": "/static/js/9.eb0434b1.chunk.js",
     "static/js/10.3c6605fc.chunk.js": "/static/js/10.3c6605fc.chunk.js",
     "static/js/11.af48cf15.chunk.js": "/static/js/11.af48cf15.chunk.js",
@@ -138,7 +138,7 @@
     "static/media/x-circle.bd4906d4.svg": "/static/media/x-circle.bd4906d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.386b106a.js",
+    "static/js/runtime-main.487781af.js",
     "static/css/7.d98c9055.chunk.css",
     "static/js/7.a74fdd90.chunk.js",
     "static/js/main.2e2de67e.chunk.js"
