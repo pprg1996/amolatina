@@ -6,11 +6,11 @@
     "static/js/2.237d6e30.chunk.js": "/static/js/2.237d6e30.chunk.js",
     "static/js/3.1db00622.chunk.js": "/static/js/3.1db00622.chunk.js",
     "main.js": "/static/js/main.87ff9d07.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.f2928479.js",
+    "runtime-main.js": "/static/js/runtime-main.c2bf7995.js",
     "static/js/6.60472795.chunk.js": "/static/js/6.60472795.chunk.js",
     "static/css/7.d98c9055.chunk.css": "/static/css/7.d98c9055.chunk.css",
     "static/js/7.d31cb6f1.chunk.js": "/static/js/7.d31cb6f1.chunk.js",
-    "static/js/8.753c3e6e.chunk.js": "/static/js/8.753c3e6e.chunk.js",
+    "static/js/8.d740f9f7.chunk.js": "/static/js/8.d740f9f7.chunk.js",
     "static/js/9.d2ad2050.chunk.js": "/static/js/9.d2ad2050.chunk.js",
     "static/js/10.cbee818f.chunk.js": "/static/js/10.cbee818f.chunk.js",
     "static/js/11.e5294557.chunk.js": "/static/js/11.e5294557.chunk.js",
@@ -69,6 +69,7 @@
     "static/media/crown.svg": "/static/media/crown.6abf7172.svg",
     "static/media/currency-dollar.c6e62544.svg": "/static/media/currency-dollar.c6e62544.svg",
     "static/media/diamond.svg": "/static/media/diamond.6a6d55c4.svg",
+    "static/media/diamondplus.1f2abad6.svg": "/static/media/diamondplus.1f2abad6.svg",
     "static/media/eliminar-multa.74852ceb.svg": "/static/media/eliminar-multa.74852ceb.svg",
     "static/media/email-arrow.dce0a403.svg": "/static/media/email-arrow.dce0a403.svg",
     "static/media/error.a91db165.wav": "/static/media/error.a91db165.wav",
@@ -139,7 +140,7 @@
     "static/media/x-circle.bd4906d4.svg": "/static/media/x-circle.bd4906d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f2928479.js",
+    "static/js/runtime-main.c2bf7995.js",
     "static/css/7.d98c9055.chunk.css",
     "static/js/7.d31cb6f1.chunk.js",
     "static/js/main.87ff9d07.chunk.js"
